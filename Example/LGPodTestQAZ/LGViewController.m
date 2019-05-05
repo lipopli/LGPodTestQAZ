@@ -8,6 +8,8 @@
 
 #import "LGViewController.h"
 
+#import <LGPodTestQAZ/AVPlayerTool.h>
+
 @interface LGViewController ()
 
 @end
@@ -18,6 +20,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+   // [AVPlayerTool sharedInstance] playMp3WithPath:@""
 }
 
 - (void)didReceiveMemoryWarning

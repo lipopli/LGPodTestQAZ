@@ -1,0 +1,6 @@
+framework module Pods_LGPodTestQAZ_Example {
+  umbrella header "Pods-LGPodTestQAZ_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

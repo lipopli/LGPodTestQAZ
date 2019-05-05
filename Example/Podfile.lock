@@ -1,0 +1,16 @@
+PODS:
+  - LGPodTestQAZ (0.1.0)
+
+DEPENDENCIES:
+  - LGPodTestQAZ (from `../`)
+
+EXTERNAL SOURCES:
+  LGPodTestQAZ:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LGPodTestQAZ: a41b7beb49d976e948367e4b9b79d8d0acd2f1b1
+
+PODFILE CHECKSUM: e0f6c8b231c3acb6b842c2401bfccabf2069a639
+
+COCOAPODS: 1.6.0
